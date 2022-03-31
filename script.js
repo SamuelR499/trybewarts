@@ -1,6 +1,6 @@
 const btnEntrar = document.getElementById('btn-entrar');
 
-// Samuel!
+// Samuel Ribeiro!
 
 function btnEntrarAlert() {
   const email = document.getElementById('email');
