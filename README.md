@@ -3,7 +3,7 @@
 Boas-vindas, neste projeto de avaliação prática, utilizei todo o conhecimento adquirido na seção 6 do curso de Desenvolvimento Web da Trybe.
 Esse projeto se trata de  uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. 
 
-<img src="./trybewarts.png" width="350" />
+<img src="./trybewarts.png" width="700" />
 
 ## Ferramentas
 
